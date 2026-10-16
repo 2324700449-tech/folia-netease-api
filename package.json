@@ -1,0 +1,1 @@
+{"name":"folia-netease-api","version":"1.0.0","private":true,"dependencies":{"@neteasecloudmusicapienhanced/api":"4.40.1"},"scripts":{"start":"node node_modules/@neteasecloudmusicapienhanced/api/app.js"}}
